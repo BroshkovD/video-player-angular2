@@ -1,0 +1,6 @@
+app/*.map
+app/*.js
+node_modules
+
+Thumbs.db
+.DS_Store
