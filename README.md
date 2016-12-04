@@ -17,9 +17,9 @@ Project application based on Angular2 framework using TypeScript and HTML5 featu
 
 ### Process
 
-* git clone https://github.com/BroshkovD/video-player-angular2 new-project && cd new-project
+* git clone https://github.com/BroshkovD/video-player-angular2.git new-project && cd new-project
 * npm i
-* start
+* npm start
 
 ##3. Demo
 [Demo: Video Player](http://91.210.164.82/video-player/)
